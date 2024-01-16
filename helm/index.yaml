@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  rbac:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-01-15T21:17:00.266701482-05:00"
+    description: A Helm chart to create RBAC resources that allow querying the Kubernetes
+      API and events
+    digest: 23493b46b1a706b06af2ff3ad8d827348bcd7df54f388135abd0dd9dadfb30b8
+    name: rbac
+    type: application
+    urls:
+    - https://brooksyott.github.io/helm/rbac-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-15T21:17:00.266453155-05:00"

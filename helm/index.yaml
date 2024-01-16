@@ -3,7 +3,7 @@ entries:
   rbac:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-01-15T22:15:00.052967506-05:00"
+    created: "2024-01-15T22:26:13.332544701-05:00"
     description: A Helm chart to create RBAC resources that allow querying the Kubernetes
       API and events
     digest: 23493b46b1a706b06af2ff3ad8d827348bcd7df54f388135abd0dd9dadfb30b8
@@ -15,7 +15,7 @@ entries:
   service1:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-15T22:15:00.053097065-05:00"
+    created: "2024-01-15T22:26:13.3326702-05:00"
     description: SERVICE 1 - A Helm chart to deploy a demo echo service
     digest: 9db3daf0b7b951577802e51e7c023fbf2e7c0a4d1ae4537e5f0be98555b49ed5
     name: service1
@@ -26,7 +26,7 @@ entries:
   service2:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-15T22:15:00.05324081-05:00"
+    created: "2024-01-15T22:26:13.332774635-05:00"
     description: A Helm chart for Kubernetes
     digest: 0f212013ee50316a262b8730fe12cdfb75596c31aa5eed60865a524de682fe17
     name: service2
@@ -37,12 +37,12 @@ entries:
   sub-service:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-15T22:15:00.05335839-05:00"
+    created: "2024-01-15T22:26:13.332882257-05:00"
     description: A Helm chart for Kubernetes
-    digest: 423f1dfed067c781ae304a24f0a20c9e57b5a4a9a8494ef7f5a5feec217eb683
+    digest: f09af778076d120ca62208f2b75f391ea9b790ef0526dd2002fa624346e35244
     name: sub-service
     type: application
     urls:
-    - https://brooksyott.github.io/helm/sub-service-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-01-15T22:15:00.052787954-05:00"
+    - https://brooksyott.github.io/helm/sub-service-0.2.0.tgz
+    version: 0.2.0
+generated: "2024-01-15T22:26:13.332362267-05:00"

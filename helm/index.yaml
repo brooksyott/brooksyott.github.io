@@ -3,7 +3,7 @@ entries:
   rbac:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-01-15T22:26:13.332544701-05:00"
+    created: "2024-01-15T23:39:02.318656542-05:00"
     description: A Helm chart to create RBAC resources that allow querying the Kubernetes
       API and events
     digest: 23493b46b1a706b06af2ff3ad8d827348bcd7df54f388135abd0dd9dadfb30b8
@@ -15,29 +15,29 @@ entries:
   service1:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-15T22:26:13.3326702-05:00"
+    created: "2024-01-15T23:39:02.319015651-05:00"
     description: SERVICE 1 - A Helm chart to deploy a demo echo service
-    digest: 9db3daf0b7b951577802e51e7c023fbf2e7c0a4d1ae4537e5f0be98555b49ed5
+    digest: 6a532894dd5a46ddd5cd713796fe83a7db1c0c57a994394b6dd641d23a045782
     name: service1
     type: application
     urls:
-    - https://brooksyott.github.io/helm/service1-0.1.0.tgz
-    version: 0.1.0
+    - https://brooksyott.github.io/helm/service1-0.2.0.tgz
+    version: 0.2.0
   service2:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-15T22:26:13.332774635-05:00"
+    created: "2024-01-15T23:39:02.319118897-05:00"
     description: A Helm chart for Kubernetes
-    digest: 0f212013ee50316a262b8730fe12cdfb75596c31aa5eed60865a524de682fe17
+    digest: 3edd837437bc87cca1f659639c7b71c9669a6372b81bd886e522bd1bbd35aa04
     name: service2
     type: application
     urls:
-    - https://brooksyott.github.io/helm/service2-0.1.0.tgz
-    version: 0.1.0
+    - https://brooksyott.github.io/helm/service2-0.2.0.tgz
+    version: 0.2.0
   sub-service:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-15T22:26:13.332882257-05:00"
+    created: "2024-01-15T23:39:02.319219869-05:00"
     description: A Helm chart for Kubernetes
     digest: f09af778076d120ca62208f2b75f391ea9b790ef0526dd2002fa624346e35244
     name: sub-service
@@ -45,4 +45,4 @@ entries:
     urls:
     - https://brooksyott.github.io/helm/sub-service-0.2.0.tgz
     version: 0.2.0
-generated: "2024-01-15T22:26:13.332362267-05:00"
+generated: "2024-01-15T23:39:02.318497871-05:00"

@@ -2,19 +2,19 @@ apiVersion: v1
 entries:
   k8s-grpc-rest-echo:
   - apiVersion: v2
-    appVersion: 0.3.6
-    created: "2024-10-19T15:11:14.445455594-04:00"
+    appVersion: 0.3.7
+    created: "2024-10-19T17:56:47.217279286-04:00"
     description: A Helm chart to deploy an echo server that supports both gRPC and
       RESTful APIs.
-    digest: af66c6d36a4a4bef075e2fcc1bba88e50c7a4da367fccf08f1e2ab4584e0abaf
+    digest: d36136dee22c8b9fc1f5639bc18adbcd65e0516ff3dcbceedec29ae051052dba
     name: k8s-grpc-rest-echo
     type: application
     urls:
-    - k8s-grpc-rest-echo-0.3.6.tgz
-    version: 0.3.6
+    - k8s-grpc-rest-echo-0.3.7.tgz
+    version: 0.3.7
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-10-19T15:11:14.445337405-04:00"
+    created: "2024-10-19T17:56:47.217031734-04:00"
     description: A Helm chart to deploy an echo server that supports both gRPC and
       RESTful APIs.
     digest: 421e0830caf7779a0130ec546bd2231808a7bce474e4512561509b28b4f11642
@@ -25,7 +25,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-19T15:11:14.445225477-04:00"
+    created: "2024-10-19T17:56:47.216770079-04:00"
     description: A Helm chart to deploy an echo server that supports both gRPC and
       RESTful APIs.
     digest: 4978fa584db75c5dee3270b13afbba4708552ec872ea1dac06c65dfd5ef6ec07
@@ -37,7 +37,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-19T15:11:14.445697531-04:00"
+    created: "2024-10-19T17:56:47.217713555-04:00"
     description: A Helm chart for Kubernetes
     digest: 1e90f6c046283c4f4c40797c1d98800a97522934f4bfebbc9371696864b034d0
     name: nginx
@@ -48,7 +48,7 @@ entries:
   rbac:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-10-19T15:11:14.445767679-04:00"
+    created: "2024-10-19T17:56:47.217857374-04:00"
     description: A Helm chart to create RBAC resources that allow querying the Kubernetes
       API and events
     digest: 835bdd4c82eb81fe0d8cc0a9506f4af35e2971971471e4bc3f4f07c08a28ce05
@@ -60,7 +60,7 @@ entries:
   sub-service:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-19T15:11:14.445858474-04:00"
+    created: "2024-10-19T17:56:47.218020035-04:00"
     description: A Helm chart for Kubernetes
     digest: f09af778076d120ca62208f2b75f391ea9b790ef0526dd2002fa624346e35244
     name: sub-service
@@ -68,4 +68,4 @@ entries:
     urls:
     - sub-service-0.2.0.tgz
     version: 0.2.0
-generated: "2024-10-19T15:11:14.445030963-04:00"
+generated: "2024-10-19T17:56:47.207592441-04:00"

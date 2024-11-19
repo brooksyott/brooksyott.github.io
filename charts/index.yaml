@@ -3,7 +3,18 @@ entries:
   k8s-grpc-rest-echo:
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2024-11-16T11:36:20.624847443-05:00"
+    created: "2024-11-19T05:30:28.967034842-05:00"
+    description: A Helm chart to deploy an echo server that supports both gRPC and
+      RESTful APIs.
+    digest: c3b222faf67c67af92763847651e89a5fb388f5d47dd0aea5f25f30887f618a5
+    name: k8s-grpc-rest-echo
+    type: application
+    urls:
+    - k8s-grpc-rest-echo-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v2
+    appVersion: 0.4.0
+    created: "2024-11-19T05:30:28.966881419-05:00"
     description: A Helm chart to deploy an echo server that supports both gRPC and
       RESTful APIs.
     digest: 37564607b189e8a97baa9f0474ef3e24485e50cb2df4564e1b7bafc53e2ae2a1
@@ -14,7 +25,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2024-11-16T11:36:20.624711379-05:00"
+    created: "2024-11-19T05:30:28.966755562-05:00"
     description: A Helm chart to deploy an echo server that supports both gRPC and
       RESTful APIs.
     digest: 9ca4bd7df65e766b56d29d8dae39313ab105d88786dfb3c9955dcff39e228142
@@ -47,7 +58,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.3.8
-    created: "2024-11-16T11:36:20.624577427-05:00"
+    created: "2024-11-19T05:30:28.966625382-05:00"
     description: A Helm chart to deploy an echo server that supports both gRPC and
       RESTful APIs.
     digest: ee822ce534f83bb8215ddec6c12f11875244899cda86d3e39cdbdc277c3e7151
@@ -58,7 +69,7 @@ entries:
     version: 0.3.8
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-11-16T11:36:20.624466419-05:00"
+    created: "2024-11-19T05:30:28.966514645-05:00"
     description: A Helm chart to deploy an echo server that supports both gRPC and
       RESTful APIs.
     digest: 421e0830caf7779a0130ec546bd2231808a7bce474e4512561509b28b4f11642
@@ -69,7 +80,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-11-16T11:36:20.624320146-05:00"
+    created: "2024-11-19T05:30:28.966400289-05:00"
     description: A Helm chart to deploy an echo server that supports both gRPC and
       RESTful APIs.
     digest: 4978fa584db75c5dee3270b13afbba4708552ec872ea1dac06c65dfd5ef6ec07
@@ -81,7 +92,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-11-16T11:36:20.625086166-05:00"
+    created: "2024-11-19T05:30:28.967310109-05:00"
     description: A Helm chart for Kubernetes
     digest: 1e90f6c046283c4f4c40797c1d98800a97522934f4bfebbc9371696864b034d0
     name: nginx
@@ -92,7 +103,7 @@ entries:
   rbac:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-11-16T11:36:20.625156423-05:00"
+    created: "2024-11-19T05:30:28.967382431-05:00"
     description: A Helm chart to create RBAC resources that allow querying the Kubernetes
       API and events
     digest: 835bdd4c82eb81fe0d8cc0a9506f4af35e2971971471e4bc3f4f07c08a28ce05
@@ -104,7 +115,7 @@ entries:
   sub-service:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-11-16T11:36:20.625247852-05:00"
+    created: "2024-11-19T05:30:28.967472764-05:00"
     description: A Helm chart for Kubernetes
     digest: f09af778076d120ca62208f2b75f391ea9b790ef0526dd2002fa624346e35244
     name: sub-service
@@ -112,4 +123,4 @@ entries:
     urls:
     - sub-service-0.2.0.tgz
     version: 0.2.0
-generated: "2024-11-16T11:36:20.624120365-05:00"
+generated: "2024-11-19T05:30:28.966206992-05:00"
